@@ -1,0 +1,15 @@
+====================================================
+=== Coding Wanderer Site Design ===
+====================================================
+
+=== Splash Page ===
+- Logo
+- Contact us form.
+
+=== Site Layout ===
+Section 0 - Header | Video?
+Section 1 - Examples | Portfolio
+Section 2 - Style 
+Section 3 - About the artist
+Section 4 - Contact form
+Section 5 - Footer
