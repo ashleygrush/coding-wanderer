@@ -8,10 +8,21 @@
 html,
 body {
     background-color: #000;
+    font-family: 'Open Sans', sans-serif;
     color: #fff;
-    font-family: 'Caveat','Arial';
     font-weight: 200;
+    font-family: 'Caveat', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'Caveat', cursive;
+}
+
 
 header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/tahoe.png);

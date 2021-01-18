@@ -26,3 +26,6 @@ Black: #000000
 Rich Red: #e60000
 Shadow Red: #705c5c
 
+=== Fonts ===
+Caveat (cursive) and Open Sans 
+
