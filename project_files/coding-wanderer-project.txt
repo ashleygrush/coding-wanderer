@@ -13,3 +13,16 @@ Section 2 - Style
 Section 3 - About the artist
 Section 4 - Contact form
 Section 5 - Footer
+
+
+=== Design Notes ===
+Site to update 'Seasonally' (Maybe even w/ time of day?
+> think mac desktop transition backdrops
+Winter - Aspens, snow, black + white w/ pop of red. 
+
+=== Colors ===
+White: #FFFFFF
+Black: #000000
+Rich Red: #e60000
+Shadow Red: #705c5c
+
